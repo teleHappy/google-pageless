@@ -1,0 +1,5 @@
+# Variation 1: Feature status
+
+This document's author is using the pageless format
+
+The pageless format allows you to add wide images and tables, and consume content without the interruption of page breaks. You can change the format for any of your documents from File → Page setup. Learn more
